@@ -11,5 +11,10 @@
             "App\\": "app/"
         }
     },
-    "require": {}
+    "require": {},
+    "scripts": {
+        "dev": [
+            "php -S localhost:8000"
+        ]
+    }
 }
