@@ -13,7 +13,7 @@ class Usuario extends Model
         if (! empty($resultado) && count($resultado) > 0) {
             return true;
         }
-
+//teste
         return false;
     }
 
